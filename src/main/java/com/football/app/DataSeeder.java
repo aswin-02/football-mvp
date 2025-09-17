@@ -23,11 +23,11 @@ public class DataSeeder implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        seedUsers();
-        seedLocations();
-        seedMatches();
-        seedPlayerMatches();
-        seedPlayerStats();
+//        seedUsers();
+//        seedLocations();
+//        seedMatches();
+//        seedPlayerMatches();
+//        seedPlayerStats();
     }
 
     private void seedUsers() {
